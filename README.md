@@ -3,7 +3,7 @@
 # Fabio Fonseca Vieira
 ---
 # 💫 Sobre Mim:
-Sou Bacharel em Engenharia Ambiental pela Faculdade Internacional da Paraíba e Especialista em Gestão Ambiental de Municípios pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba. Atualmente, estou cursando Tecnologia em Ciência de Dados na Universidade Federal do Mato Grosso do Sul (EaD), com conclusão prevista até 2025 (60% concluído). Sou fluente em inglês e tenho experiência em vistorias ambientais, pesquisas através de entrevistas domiciliares, conservação e educação ambiental, além de conhecimento em softwares de geoprocessamento e linguagens de gestão de dados Angular, Mandarim Básico e Java.
+Sou Bacharel em Engenharia Ambiental pela Faculdade Internacional da Paraíba e Especialista em Gestão Ambiental de Municípios pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba. Atualmente, estou cursando Tecnologia em Ciência de Dados na Universidade Federal do Mato Grosso do Sul (EaD), com conclusão prevista para 2025 (60% concluído). Tenho experiência em vistorias ambientais, pesquisas através de entrevistas domiciliares, conservação e educação ambiental, além de conhecimento em softwares de geoprocessamento e linguagens de gestão de dados. Sou fluente em Inglês e tenho habilidades em Python, R, Java, Angular, PowerBI, Tableau e Mandarim Básico.
 
 
 ## 🌐 Socials:
