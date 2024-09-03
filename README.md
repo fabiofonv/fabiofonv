@@ -46,16 +46,16 @@ Sou Bacharel em Engenharia Ambiental pela Faculdade Internacional da Paraíba e 
 ## Habilidades
 
 - Inglês fluente
-- Licenciamento Ambiental
-- Microsoft Office
-- LibreOffice
 - QGIS
 - Gerenciamento de dados em R e Python
-- JavaScript
+- JavaScript, CSS, PHP e HTML
 - Angular
 - Mandarim Básico
 - Java
 - Noções básicas em PowerBI e Tableau
+- Microsoft Office
+- LibreOffice
+- Licenciamento Ambiental
 
 ---
 
