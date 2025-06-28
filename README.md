@@ -21,11 +21,12 @@ Currently studying Data Science Technological undergraduate degree at Universida
 ## Academic Background
 
 **Undergraduate degree:**
-- Data Science - Universidade Federal do Mato Grosso do Sul - Planned conclusion in 2025 (60% completed)
-- Environmental Engineering – Faculdade Internacional da Paraíba – Conclusion in June 2017
+- Data Science - Universidade Federal do Mato Grosso do Sul (UFMS) - Planned conclusion in 2025 (60% completed)
+- Environmental Engineering – Faculdade Internacional da Paraíba (FPB) – Conclusion in June 2017
 
 **Graduate degree:**
-- Specialization in Environmental Management of Municipalities – Conclusion in June 2022
+- Specialiaztion in Agrocomputing - Universidade Federal do Mato Grosso (UFMT) - Planned conclusion in Dec/2026
+- Specialization in Environmental Management of Municipalities – Instituto Federal da Paraíba (IFPB) - Conclusion in June 2022
 
 ---
 
