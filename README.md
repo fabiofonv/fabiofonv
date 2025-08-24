@@ -3,7 +3,9 @@
 # Fabio Fonseca Vieira
 ---
 # 💫 About me:
-Currently studying Data Science Technological undergraduate degree at Universidade Federal do Mato Grosso do Sul (distance learning), with planned conclusion in 2025 (60% completed). Fluent in English, skills in Python and libraries; JavaScript, AngularJS, PHP, HTML and CSS; PowerBi; R; Java; geoprocessing softwares. Curretly learning basic chinese and spanish. Undergraduate in Environmental Engineering and Specialist in Environmental Management of Municipalities.
+Fluent in English, advanced reading, writing, listening and conversation. 
+Data Scientist with skills in Python, Machine Learning, and data visualization libraries. Solid knowledge in Pandas, NumPy, Scikit-Learn, PyTorch, spaCy, in addition to web development skills (JavaScript, AngularJS, PHP, Laravel, HTML, CSS). 
+Seeking an opportunity to apply my experience in data mining, predictive modeling, and AI-driven solutions.
 
 
 ## 🌐 Socials:
@@ -21,22 +23,20 @@ Currently studying Data Science Technological undergraduate degree at Universida
 ## Academic Background
 
 **Undergraduate degree:**
-- Data Science - Universidade Federal do Mato Grosso do Sul (UFMS) - Planned conclusion in 2025 (60% completed)
-- Environmental Engineering – Faculdade Internacional da Paraíba (FPB) – Conclusion in June 2017
+🎓 Technologist in Data Science – Federal University of Mato Grosso do Sul
 
 **Graduate degree:**
-- Specialiaztion in Agrocomputing - Universidade Federal do Mato Grosso (UFMT) - Planned conclusion in Dec/2026
-- Specialization in Environmental Management of Municipalities – Instituto Federal da Paraíba (IFPB) - Conclusion in June 2022
+🎓 Specialization in Agrocomputing – Federal University of Mato Grosso
 
 ---
 
 ## Complementary Courses
 
 - FullStack Programming (400h) - CEJA Brasil / Prefeitura Municipal de São Paulo - In progress
-- Introduction to Data Science (40h) - Universidade de São Paulo
-- Formação Cientista de Dados (50h) - Udemy
-- JavaScript: Algoritmos + Estruturas de Dados (12h) - Udemy
-- Aprenda Geoprocessamento no QGIS (12h) - Udemy
-- Python para Análise de Dados (12h) - Udemy
-- Curso de Angular v2 ao v17: Básico ao Profissional (120h) - Udemy
-- Spatial Data Analysis with R, QGIS & More (5h) - Udemy
+- Data Science (40h) - Universidade de São Paulo
+- Formação Cientista de Dados (50h)
+- JavaScript: Algoritmos + Estruturas de Dados (12h)
+- Aprenda Geoprocessamento no QGIS (12h)
+- Python para Análise de Dados (12h)
+- Curso de Angular v2 ao v17: Básico ao Profissional (120h)
+- Spatial Data Analysis with R, QGIS & More (5h)
