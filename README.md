@@ -3,7 +3,7 @@
 # Fabio Fonseca Vieira
 ---
 # 💫 About me:
-Fluent in English, advanced reading, writing, listening and conversation. 
+Fluent in English, with EF SET - C2 Proficient Certification. 
 Data Scientist with skills in Python, Machine Learning, and data visualization libraries. Solid knowledge in Pandas, NumPy, Scikit-Learn, PyTorch, spaCy, in addition to web development skills (JavaScript, AngularJS, PHP, Laravel, HTML, CSS). 
 Seeking an opportunity to apply my experience in data mining, predictive modeling, and AI-driven solutions.
 
