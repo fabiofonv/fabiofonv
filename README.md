@@ -32,6 +32,7 @@ Seeking an opportunity to apply my experience in data mining, predictive modelin
 
 ## Complementary Courses
 
+- EF SET - C2 Proficient
 - FullStack Programming (400h) - CEJA Brasil / Prefeitura Municipal de São Paulo - In progress
 - Data Science (40h) - Universidade de São Paulo
 - Formação Cientista de Dados (50h)
