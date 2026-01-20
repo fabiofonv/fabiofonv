@@ -22,11 +22,14 @@ Seeking an opportunity to apply my experience in data mining, predictive modelin
 
 ## Academic Background
 
-**Undergraduate degree:**
-🎓 Technologist in Data Science – Federal University of Mato Grosso do Sul
+**Graduate degree:**
+🎓 Specialization in Machine Learning Engineering – FIAP - In progress...
 
 **Graduate degree:**
-🎓 Specialization in Agrocomputing – Federal University of Mato Grosso
+🎓 Specialization in Agrocomputing – Federal University of Mato Grosso - In progress...
+
+**Undergraduate degree:**
+🎓 Technologist in Data Science – Federal University of Mato Grosso do Sul
 
 ---
 
